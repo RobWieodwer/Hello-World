@@ -1,2 +1,4 @@
 # hello-world
-jsut another repository 
+
+hello human 
+i am a alien in space.
